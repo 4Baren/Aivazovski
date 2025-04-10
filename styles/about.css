@@ -41,6 +41,10 @@
 
 @media (max-width: 480px) {
 
+    .about {
+        padding: 50px 30px 60px;
+    }
+
     .about-subtitle-ru,
     .about-subtitle-en,
     .about-description-ru,
